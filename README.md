@@ -1,5 +1,5 @@
 # templates
-- []react-admin
-- []vue-admin
 - [x] react-native
+- [ ] react-admin
+- [ ] vue-admin
 ## React Native
